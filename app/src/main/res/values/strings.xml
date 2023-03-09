@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="login">Login</string>
+    <string name="enter_userid_password">Enter userid and password</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="no_internet">No Internet</string>
+    <string name="trip_sheet_no">Trip sheet no</string>
+    <string name="total_hu">Total HU</string>
+    <string name="scan_hu">Scan HU</string>
+    <string name="bar_code">Bar Code</string>
+    <string name="c_note_number">C Note Number</string>
+    <string name="carton_no">Carton No</string>
+    <string name="status">Status</string>
+    <string name="bluetooth_setting">Bluetooth Setting</string>
+    <string name="last_connected_device">Last connected device</string>
+    <string name="add_new_device">Add New Device</string>
+    <string name="ip_mac_address">IP MAC Address</string>
+    <string name="add">Add</string>
+    <string name="test_device">Test Device</string>
+    <string name="today">Today</string>
+    <string name="scheduled">Scheduled</string>
+    <string name="all">All</string>
+    <string name="completed">Completed</string>
+</resources>
